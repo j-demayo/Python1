@@ -3,7 +3,12 @@ Are you ready to take the first steps in using code to work with data? In this t
 
 ### In this 2-hour in-person session, you'll learn how to:
 
-Describe and use basic Python concepts  (e.g., strings, integers, printing, variables, lists, dictionaries, loops, conditional logic, etc.) Handle mistakes in coding Use add-on modules (I.e., import libraries) for Python, including numpy and matplotlib Read data into Python Perform basic statistical operations on data Create basic plots from data
+- Describe and use basic Python concepts  (e.g., strings, integers, printing, variables, lists, dictionaries, loops, conditional logic, etc.) 
+- Handle mistakes in coding 
+- Use add-on modules (I.e., import libraries) for Python, including numpy and matplotlib 
+- Read data into Python 
+- Perform basic statistical operations on data 
+- Create basic plots from data
 
 ### What to know about this session:
 
