@@ -29,3 +29,7 @@ Each library we used today has its own documentation, for further reading.
 
 #### Markdown
 - markdown – [guide](https://www.markdownguide.org/) | [cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+
+### Python Series from Yale Center for Research Computing
+
+[https://research.computing.yale.edu/training/python-series](https://research.computing.yale.edu/training/python-series)
