@@ -11,7 +11,7 @@ This training will be hands-on; come ready to code alongside the instructor. Det
 
 ### Acknowledgemments
 
-Some of this material, including the inflammation data, is adapted from the Carpentries, using a CC-BY-4.0 license.
+Some of this material, including the inflammation data, is adapted from the [Carpentries](https://software-carpentry.org/lessons/), using a [CC-BY-4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 ### General Python Documentation
 - Official Python docs: https://python.org 
