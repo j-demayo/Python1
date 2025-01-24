@@ -8,3 +8,24 @@ Describe and use basic Python concepts  (e.g., strings, integers, printing, vari
 ### What to know about this session:
 
 This training will be hands-on; come ready to code alongside the instructor. Details about technical setup will be emailed to registrants a few days before the course begins. Please note that registration is required for this event.
+
+### Acknowledgemments
+
+Some of this material, including the inflammation data, is adapted from the Carpentries, using a CC-BY-4.0 license.
+
+### General Python Documentation
+- Official Python docs: https://python.org 
+- Beginner guide: https://wiki.python.org/moin/BeginnersGuide 
+- Cheatsheets:
+- Python: https://www.pythoncheatsheet.org/ + https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet 
+- See more helpful learning resources (under Python): https://library.medicine.yale.edu/research-data/learn-work-data 
+
+### Python Library Documentation
+
+Each library we used today has its own documentation, for further reading. 
+- numpy — (docs)[https://numpy.org/doc/stable/] | (user guide)[https://numpy.org/doc/stable/user/index.html#user]
+- matplotlib — (docs)[https://matplotlib.org/stable/index.htmlS] | (user guide)[https://matplotlib.org/stable/users/index.html] | (cheatsheets)[https://matplotlib.org/cheatsheets/]
+- glob — (docs)[https://docs.python.org/3/library/glob.html#module-globS]
+
+#### Markdown
+- markdown – (guide)[https://www.markdownguide.org/] | (cheatsheet)[https://www.markdownguide.org/cheat-sheet/]
