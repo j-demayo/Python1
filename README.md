@@ -24,7 +24,7 @@ Some of this material, including the inflammation data, is adapted from the [Car
 
 Each library we used today has its own documentation, for further reading. 
 - numpy — [docs](https://numpy.org/doc/stable) | [user guide](https://numpy.org/doc/stable/user/index.html#user)
-- matplotlib — [docs](https://matplotlib.org/stable/index.htmlS) | [user guide](https://matplotlib.org/stable/users/index.html) | [cheatsheets](https://matplotlib.org/cheatsheets/)
+- matplotlib — [docs](https://matplotlib.org/stable/index.html) | [user guide](https://matplotlib.org/stable/users/index.html) | [cheatsheets](https://matplotlib.org/cheatsheets/)
 - glob — [docs](https://docs.python.org/3/library/glob.html#module-globS)
 
 #### Markdown
