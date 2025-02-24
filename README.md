@@ -32,8 +32,9 @@ Each library we used today has its own documentation, for further reading.
 - matplotlib — [docs](https://matplotlib.org/stable/index.html) | [user guide](https://matplotlib.org/stable/users/index.html) | [cheatsheets](https://matplotlib.org/cheatsheets/) | [Matplotlib Tutorial](https://realpython.com/python-matplotlib-guide/)
 - glob — [docs](https://docs.python.org/3/library/glob.html#module-globS)
 
-#### Markdown
+#### Bits and bobs
 - markdown – [guide](https://www.markdownguide.org/) | [cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+- Seaborn Color Pallettes - [PyData Tutorial](https://seaborn.pydata.org/tutorial/color_palettes.html_)
 
 ### Python Series from Yale Center for Research Computing
 
